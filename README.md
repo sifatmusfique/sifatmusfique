@@ -1,30 +1,81 @@
-![logo](https://github.com/sifatmusfique/sifatmusfique/blob/main/1000116534.jpg)
-<h1 align="center">Hi 👋, I'm Sifat Musfique</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sifat Musfique</h1>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA0bml2aTB6YmNhMzE5anlrMzB6NTN3dWdqOTdqdDZ4eG1qZHRlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatmusfique&label=Profile%20views&color=0e75b6&style=flat" alt="sifatmusfique" /> </p>
-
-- 👨‍💻 All of my projects are available at [sifatmusfique.site](sifatmusfique.site)
-
-- 📫 How to reach me **sifatmusfique@gmail.com**
-
-- ⚡ Fun fact **I am 100% Accurate about layout positioning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sifatmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sifatmusfique" height="30" width="40" /></a>
-<a href="https://twitter.com/sifat_musfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifat_musfique" height="30" width="40" /></a>
-<a href="https://fb.com/sifatmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatmusfique" height="30" width="40" /></a>
-<a href="https://instagram.com/sifat.musfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifat.musfique" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sifatmusfique&label=Profile%20views&color=0e75b6&style=flat" alt="sifatmusfique" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!--
+**sifatmusfique/sifatmusfique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatmusfique&show_icons=true&locale=en&layout=compact" alt="sifatmusfique" /></p>
+<div align="center">
+  <img src ="./banner.png" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatmusfique&show_icons=true&locale=en" alt="sifatmusfique" /></p>
+ <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatmusfique&" alt="sifatmusfique" /></p>
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://sifatmusfique.site/)**  
+
+- 🔭 I’m currently working on `My Advanced Portfolio Website`  
+
+- 🌱 I’m currently learning `Modern Frontend & Backend (React, PHP, MySQL)`  
+
+- 👯 I’m looking to collaborate for `Freelance & Client Projects`  
+
+- 🤔 I’m looking for help with `Workflow Optimization & Debugging`  
+
+- 💬 Ask me about `Frontend Development, Layouts, and Debugging`  
+
+- 👨‍💻 Life Hack: *Build, Debug, Refine, Repeat* :fire:  
+
+- ⚡ Fun fact: *I am 100% Accurate about layout positioning*  
+
+---
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+</p>
+
+---
+
+## ❤️ Let's get connected:
+
+<p>
+<a href="https://sifatmusfique.site" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> 
+<a href="https://twitter.com/sifat_musfique" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
+<a href="https://fb.com/sifatmusfique" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a> 
+<a href="https://www.instagram.com/sifat.musfique" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://codepen.io/sifatmusfique" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"  height="30px"/></a>
+</p>
+
+---
+
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/sifatmusfique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+---
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatmusfique&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatmusfique&" alt="sifatmusfique" />
+</div>
