@@ -1,18 +1,15 @@
+![logo](https://github.com/sifatmusfique/sifatmusfique/blob/main/1000116534.jpg)
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sifat Musfique</h1>
 
-<p align="center"> 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA0bml2aTB6YmNhMzE5anlrMzB6NTN3dWdqOTdqdDZ4eG1qZHRlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="center" mt-top="2"> 
   <img src="https://komarev.com/ghpvc/?username=sifatmusfique&label=Profile%20views&color=0e75b6&style=flat" alt="sifatmusfique" /> 
 </p>
 
 <!--
 **sifatmusfique/sifatmusfique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<div align="center">
-  <img src ="./banner.png" />
-</div>
-
- <br/>
 
 ## 👨🏻‍💻 About Me:
 
@@ -69,7 +66,7 @@
 
 ## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/sifatmusfique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/sifatmusfique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="160px"></a>
 
 ---
 
