@@ -13,8 +13,6 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
 - 🙋‍♂️ All about me is at **[My Website](https://sifatmusfique.site/)**  
 
 - 🔭 I’m currently working on `My Advanced Portfolio Website`  
